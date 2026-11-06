@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "scheduled_time": "00:20",
+  "comment_limit": 4,
+  "repost_limit": 2,
+  "comment_templates": [
+    "打卡",
+    "来啦",
+    "tt",
+    "TT",
+    "[打call]",
+    "[打call][打call][打call]",
+    "[哇]",
+    "[哇][哇][哇]",
+    "[送花花]",
+    "[期待]"
+  ],
+  "selected_topics": [
+    {
+      "id": "100808b0cbb89cb1591ec01a568798e0d788ed",
+      "name": "黄婷婷超话"
+    }
+  ],
+  "max_followed_pages": 30,
+  "max_feed_pages": 8,
+  "max_posts_per_topic": 80,
+  "visible_delay_min_seconds": 6,
+  "visible_delay_max_seconds": 9,
+  "action_delay_min_seconds": 8,
+  "action_delay_max_seconds": 14,
+  "topic_delay_min_seconds": 12,
+  "topic_delay_max_seconds": 20,
+  "log_retention_days": 7
+}
